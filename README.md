@@ -14,7 +14,7 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/arjungautam1/MERN_STACK
+   git clone https://github.com/DIVYA-3112/MERN_STACK
 
 ## Tutorial
 
